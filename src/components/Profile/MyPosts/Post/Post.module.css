@@ -1,0 +1,13 @@
+.item {
+    color: green
+}
+
+.item img {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.info img {
+    width: 100px;
+}
